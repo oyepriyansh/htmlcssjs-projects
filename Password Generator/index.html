@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Password Generator</title>
+        <meta name="github-repo" content="https://github.com/oyepriyansh/password-generator" />
+        <link rel="shortcut icon" type="image/x-icon" href="https://oyepriyansh.pages.dev/favicon.ico" />
+        <link rel="stylesheet" href="https://oyepriyansh.pages.dev/cdnjs/tailwind/2.2.7.css" />
+    </head>
+    <body class="bg-gray-100 text-gray-800 text-base md:text-lg">
+        <div class="container mx-auto py-8 px-4 md:px-0">
+            <div class="max-w-md mx-auto bg-white rounded-lg overflow-hidden shadow-lg">
+                <div class="bg-blue-500 text-white text-xl font-bold px-6 py-4 mb-2">Generate Password</div>
+                <div class="bg-white px-6 py-8">
+                    <div class="mb-4">
+                        <label class="block text-gray-700 font-bold mb-2" for="password">Password:</label>
+                        <div class="relative">
+                            <input class="w-full border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="password" type="text" placeholder="Click Generate" readonly />
+                            <button class="absolute right-0 top-0 mt-3 mr-3 px-3 py-1 bg-blue-500 text-white font-semibold rounded hover:bg-blue-600 hidden" id="copy">Copy</button>
+                        </div>
+                    </div>
+                    <div class="flex justify-center">
+                        <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full focus:outline-none focus:shadow-outline" id="generate">Generate</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container mx-auto py-8 px-4 md:px-0">
+            <div class="flex justify-center">
+                <a href="https://github.com/oyepriyansh/password-generator" target="_blank" class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-full focus:outline-none focus:shadow-outline mr-2">Source Code</a>
+                <a href="https://oyepriyansh.pages.dev" target="_blank" class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-full focus:outline-none focus:shadow-outline ml-2">Created by Priyansh</a>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
