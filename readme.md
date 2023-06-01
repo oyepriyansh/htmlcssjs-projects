@@ -16,7 +16,11 @@ Web Development projects collection
 |To-Do List | [Click here](https://github.com/itxpp/todo)| [Click here](https://itxpp.github.io/todo/)| [oyepriyansh](https://github.com/oyepriyansh) |
 
 ## Contribute
-Contributions are welcome, please fork this repository and submit a PR 
+[Contributions](https://github.com/oyepriyansh/htmlcssjs-projects/blob/main/contributing.md) are welcome. Read the [Guidelines](https://github.com/oyepriyansh/htmlcssjs-projects/blob/main/contributing.md) on how to contribute.
+Feel free to add your or someone else's projects.
 
 ## License 
 **[MIT License](https://github.com/oyepriyansh/htmlcssjs-projects/blob/main/license.md)**
+
+## Support
+Don't forget to hit the :star: if you like this repo.
