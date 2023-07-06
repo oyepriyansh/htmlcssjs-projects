@@ -14,6 +14,7 @@ Web Development projects collection
 |Password Generator | [Click here](https://github.com/itxpp/password)| [Click here](https://itxpp.github.io/password/)| [oyepriyansh](https://github.com/oyepriyansh) |
 |Smooth Navbar | [Click here](https://github.com/itxpp/smoothnav)| [Click here](https://itxpp.github.io/smoothnav)| [oyepriyansh](https://github.com/oyepriyansh) |
 |To-Do List | [Click here](https://github.com/itxpp/todo)| [Click here](https://itxpp.github.io/todo/)| [oyepriyansh](https://github.com/oyepriyansh) |
+|Drum-Kit| [Click here](https://github.com/Vijaykv5/Drum-Kit)| [Click here](https://vijaykv-drumkit.netlify.app/)| [Vijay Kv](https://github.com/Vijaykv5) |
 
 ## Contribute
 [Contributions](https://github.com/oyepriyansh/htmlcssjs-projects/blob/main/contributing.md) are welcome. Read the [Guidelines](https://github.com/oyepriyansh/htmlcssjs-projects/blob/main/contributing.md) on how to contribute.
